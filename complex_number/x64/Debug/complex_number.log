@@ -1,0 +1,5 @@
+﻿  complex.cpp
+  main.cpp
+D:\Visual Studio\My_Projects\Class_projects_\complex_number\main.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  complex_number.vcxproj -> D:\Visual Studio\My_Projects\Class_projects_\x64\Debug\comlex_number.exe
